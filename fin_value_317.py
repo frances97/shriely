@@ -17,7 +17,7 @@ def toc():
     print '\nElapsed time: %.8f seconds\n' % (time.clock()-globals()['tt'])
 
 tic()
-
+######
 '''
 @attention:    用于从数据中心获取 个股诊断 数据
 '''
